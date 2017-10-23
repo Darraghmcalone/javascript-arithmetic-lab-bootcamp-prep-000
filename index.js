@@ -1,2 +1,4 @@
 var number = 6
-number += 5
+function add6() {
+  number += 5
+}
